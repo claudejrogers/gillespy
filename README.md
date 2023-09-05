@@ -33,10 +33,14 @@ The Lotka reactions are a set of autocatalytic reactions, similar to a simple
 predator-prey model:
 
 $$
-\bar{X} + Y_{1} \xrightarrow{c_{1}} 2Y_{1} \\
+\bar{X} + Y_{1} \xrightarrow{c_{1}} 2Y_{1}
+$$
 
-Y_{1} + Y_{2} \xrightarrow{c_{2}} 2Y_{2} \\
+$$
+Y_{1} + Y_{2} \xrightarrow{c_{2}} 2Y_{2}
+$$
 
+$$
 Y_{2} \xrightarrow{c_{3}} Z
 $$
 
